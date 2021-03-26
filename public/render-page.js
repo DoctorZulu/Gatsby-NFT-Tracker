@@ -4778,24 +4778,24 @@ if (false) {} else {
 /***/ }),
 
 /***/ "react-dom/server":
-/*!************************************************************************************************************!*\
-  !*** external "/Users/seanmadzelonka/Desktop/portfolio/tracker/nftrackr/node_modules/react-dom/server.js" ***!
-  \************************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** external "/Users/victordoyle/Desktop/Codeprojects/Gatsby/Gatsby-NFT-Tracker/node_modules/react-dom/server.js" ***!
+  \*********************************************************************************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = require("/Users/seanmadzelonka/Desktop/portfolio/tracker/nftrackr/node_modules/react-dom/server.js");;
+module.exports = require("/Users/victordoyle/Desktop/Codeprojects/Gatsby/Gatsby-NFT-Tracker/node_modules/react-dom/server.js");;
 
 /***/ }),
 
 /***/ "react":
-/*!*******************************************************************************************************!*\
-  !*** external "/Users/seanmadzelonka/Desktop/portfolio/tracker/nftrackr/node_modules/react/index.js" ***!
-  \*******************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** external "/Users/victordoyle/Desktop/Codeprojects/Gatsby/Gatsby-NFT-Tracker/node_modules/react/index.js" ***!
+  \****************************************************************************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = require("/Users/seanmadzelonka/Desktop/portfolio/tracker/nftrackr/node_modules/react/index.js");;
+module.exports = require("/Users/victordoyle/Desktop/Codeprojects/Gatsby/Gatsby-NFT-Tracker/node_modules/react/index.js");;
 
 /***/ })
 

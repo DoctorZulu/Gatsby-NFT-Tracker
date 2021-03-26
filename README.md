@@ -4,8 +4,14 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby minimal starter
+ Gatsby NFT Tracking and Data Visualization
 </h1>
+
+### Basics
+
+Single page application with easy to use digestable financial data visualization. Visualizations will be built using D3 and styled with Tailwind CSS.
+
+Tech Stack- Gatsby D3 Tailwind CSS OpenSea API
 
 ## 🚀 Quick start
 

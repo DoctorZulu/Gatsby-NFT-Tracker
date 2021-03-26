@@ -4,8 +4,8 @@ const preferDefault = m => (m && m.default) || m
 
 
 exports.components = {
-  "component---cache-dev-404-page-js": preferDefault(require("/Users/seanmadzelonka/Desktop/portfolio/tracker/nftrackr/.cache/dev-404-page.js")),
-  "component---src-pages-404-js": preferDefault(require("/Users/seanmadzelonka/Desktop/portfolio/tracker/nftrackr/src/pages/404.js")),
-  "component---src-pages-index-js": preferDefault(require("/Users/seanmadzelonka/Desktop/portfolio/tracker/nftrackr/src/pages/index.js"))
+  "component---cache-dev-404-page-js": preferDefault(require("/Users/victordoyle/Desktop/Codeprojects/Gatsby/Gatsby-NFT-Tracker/.cache/dev-404-page.js")),
+  "component---src-pages-404-js": preferDefault(require("/Users/victordoyle/Desktop/Codeprojects/Gatsby/Gatsby-NFT-Tracker/src/pages/404.js")),
+  "component---src-pages-index-js": preferDefault(require("/Users/victordoyle/Desktop/Codeprojects/Gatsby/Gatsby-NFT-Tracker/src/pages/index.js"))
 }
 
